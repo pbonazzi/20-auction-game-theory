@@ -1,0 +1,7 @@
+TSP solved in 0 seconds:
+From City 1 to City 4
+From City 4 to City 3
+From City 3 to City 2
+From City 2 to City 5
+From City 5 to City 1
+Total distance: 1348.0
